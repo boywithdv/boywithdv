@@ -2,6 +2,11 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boywithdv&layout=compact&theme=dark)
 
+🔭 現在は位置情報共有アプリの開発中です
+
+🌱 Flutterを学習しながら開発を進めています
+
+📫 連絡方法jukiya8891@gmail.com
 
 
 <!--
