@@ -2,10 +2,6 @@
 
 
 
-
-📫 連絡方法jukiya8891@gmail.com
-
-
 <!--
 **boywithdv/boywithdv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
